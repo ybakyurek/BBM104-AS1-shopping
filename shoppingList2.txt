@@ -1,0 +1,10 @@
+Lev Tolstoy	gold	17.03.2020	Jeans	2	Hat	1	Gloves	1	Socks	4
+Ivan Turgenyev	gold	04.06.2020	Sweater	4	Jeans	4	Gloves	2	Underwear	1	Hat	3
+Vasilyevic Gogol	silver	05.11.2020	Hat	5	Tshirt	7	Underwear	2	Socks	4
+Maksim Gorki	bronze	15.09.2020	Gloves	4	Tshirt	10	Jeans	1	Underwear	2
+Anton Cehov	bronze	01.01.2020	Hat	5	Tshirt	2	Jeans	4	Socks	4
+Ivan Gonçarov	gold	28.02.2020	Sweater	7	Tshirt	4	Jeans	3
+Aleksandr Puskin	silver	30.12.2020	Jeans	10	Gloves	10	Socks	10	Underwear	10	Hat	10
+Mihail Solohov	silver	31.04.2020	Hat	7	Underwear	8	Socks	3
+Andrey Tarkovski	bronze	07.07.2020	Hat	3	Jeans	4	Sweater	3
+Fyodor Dostoyevsky	gold	20.10.2020	Jeans	5	Tshirt	5	Sweater	5	Underwear	5	Gloves	5	Socks	5	Hat	5
