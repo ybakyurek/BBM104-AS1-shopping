@@ -24,17 +24,15 @@ This project is a Java program that compares a shopping list with a price list, 
 Open a terminal and run the following command to clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/ybakyurek/repository.git
+git clone https://github.com/ybakyurek/BBM104-AS1-shopping.git
 ```
-
-Replace `your-username` and `your-repository` with your GitHub username and the name of the repository, respectively.
 
 **Step 2: Navigate to the Project Directory**
 
 Navigate to the directory containing the cloned project:
 
 ```
-cd your-repository
+cd BBM104-AS1-shopping
 ```
 
 ## **Usage:**
@@ -73,6 +71,22 @@ To compile and run the program, follow these steps:
 **Output:**
 
 - The program will output the details of each shopping transaction, including product names, prices, quantities, and the total cost.
+
+```
+---Hasan Uzun---
+Sweater	55.5 	1	55.5
+Jeans	83.0	2	166.0
+Total	221.5
+---Ali Can---
+Sweater	58.5	2	117.0
+Jeans	68.5 	1	68.5
+Total	185.5
+---Mehmet Karadeniz---
+Jeans	103.0	2	206.0
+Sweater	61.6	3	184.8
+Total	390.8
+
+```
 
 **Note:**
 
